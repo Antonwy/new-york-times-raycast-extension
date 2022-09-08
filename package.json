@@ -15,7 +15,8 @@
       "title": "NYT Posts",
       "subtitle": "New York Times",
       "description": "See the latest NYT posts",
-      "mode": "view"
+      "mode": "view",
+      "icon": "icon.png"
     }
   ],
   "preferences": [
